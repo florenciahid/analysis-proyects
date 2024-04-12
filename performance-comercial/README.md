@@ -16,7 +16,7 @@ El repositorio está organizado de la siguiente manera:
 
 ### Requisitos de Instalación
 
-Para ejecutar los notebooks y replicar el análisis, se requiere tener instalado Python junto con las bibliotecas de análisis de datos como Pandas, Numpy y Matplotlib. Se recomienda utilizar un entorno de desarrollo como Anaconda para gestionar las dependencias.
+Para ejecutar los notebooks y replicar el análisis, se requiere tener instalado Python junto con las bibliotecas de análisis de datos como Pandas, Numpy y Matplotlib. Se recomienda utilizar un entorno de desarrollo como Deepnote para gestionar las dependencias.
 
 ### Conclusiones y Propuestas
 
@@ -37,4 +37,4 @@ Para capitalizar los hallazgos del análisis y mejorar la toma de decisiones bas
 3. Realizar un análisis geográfico detallado para identificar oportunidades de mercado.
 4. Mejorar los procesos de recopilación de datos para garantizar la calidad y precisión de la información utilizada en los análisis futuros.
 
-Para más detalles sobre el análisis y las propuestas, consulte el archivo llamado "analisis".
+Para más detalles sobre el análisis y desarrollo del contenido, consulte el archivo llamado **"analisis.ipynb"**.
